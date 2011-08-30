@@ -63,7 +63,7 @@
 	// Play some music
 	
 	PXSound *bgMusic = [PXSound soundWithContentsOfFile:@"Music.mp3"];
-	[bgMusic playWithStartTime:6000 loopCount:PX_SOUND_INFINITE_LOOPS soundTransform:nil];
+	[bgMusic playWithStartTime:0 loopCount:PX_SOUND_INFINITE_LOOPS soundTransform:nil];
 }
 
 - (void) dealloc
