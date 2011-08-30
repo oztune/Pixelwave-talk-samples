@@ -11,6 +11,7 @@
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		2D05029E140CAF3E0088758E /* Music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2D05029D140CAF3E0088758E /* Music.mp3 */; };
 		2D152C24140C572F004EE6F0 /* RobotWalk.json in Resources */ = {isa = PBXBuildFile; fileRef = 2D152C20140C572F004EE6F0 /* RobotWalk.json */; };
 		2D152C25140C572F004EE6F0 /* RobotWalk.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D152C21140C572F004EE6F0 /* RobotWalk.png */; };
 		2D152C26140C572F004EE6F0 /* RobotWalk@2x.json in Resources */ = {isa = PBXBuildFile; fileRef = 2D152C22140C572F004EE6F0 /* RobotWalk@2x.json */; };
@@ -59,6 +60,7 @@
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2D05029D140CAF3E0088758E /* Music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Music.mp3; sourceTree = "<group>"; };
 		2D152C20140C572F004EE6F0 /* RobotWalk.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = RobotWalk.json; sourceTree = "<group>"; };
 		2D152C21140C572F004EE6F0 /* RobotWalk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RobotWalk.png; sourceTree = "<group>"; };
 		2D152C22140C572F004EE6F0 /* RobotWalk@2x.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "RobotWalk@2x.json"; sourceTree = "<group>"; };
@@ -218,6 +220,7 @@
 		2DD624E612BAD4BF00F200F1 /* Media */ = {
 			isa = PBXGroup;
 			children = (
+				2D05029D140CAF3E0088758E /* Music.mp3 */,
 				2D152C20140C572F004EE6F0 /* RobotWalk.json */,
 				2D152C21140C572F004EE6F0 /* RobotWalk.png */,
 				2D152C22140C572F004EE6F0 /* RobotWalk@2x.json */,
@@ -313,6 +316,7 @@
 				2D152C25140C572F004EE6F0 /* RobotWalk.png in Resources */,
 				2D152C26140C572F004EE6F0 /* RobotWalk@2x.json in Resources */,
 				2D152C27140C572F004EE6F0 /* RobotWalk@2x.png in Resources */,
+				2D05029E140CAF3E0088758E /* Music.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
