@@ -24,7 +24,10 @@
 	
 	NSString *fileName = deviceIsIPad ? @"RobotWalk@2x.json" : @"RobotWalk.json";
 	
-	PXTextureAtlas *robotWalkAtlas = [PXTextureAtlas textureAtlasWithContentsOfFile:fileName modifier:nil];
+	id<PXTextureModifier> modifier = nil;
+	//modifier = [PXTextureModifiers textureModifierToPixelFormat:PXTextureDataPixelFormat_LA88];
+	//modifier = [PXTextureModifiers textureModifierToPixelFormat:PXTextureDataPixelFormat_RGBA5551];
+	PXTextureAtlas *robotWalkAtlas = [PXTextureAtlas textureAtlasWithContentsOfFile:fileName modifier:modifier];
 	
 	NSArray *animationFrames = [robotWalkAtlas sequentialFramesWithPrefix:@"RobotWalk" suffix:@".png"];
 	
