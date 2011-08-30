@@ -1,0 +1,267 @@
+{"frames": {
+
+"RobotWalk0001.png":
+{
+	"frame": {"x":534,"y":2,"w":261,"h":227},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":23,"w":261,"h":227},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0002.png":
+{
+	"frame": {"x":269,"y":2,"w":263,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":19,"w":263,"h":231},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0003.png":
+{
+	"frame": {"x":2,"y":2,"w":265,"h":235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":16,"w":265,"h":235},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0004.png":
+{
+	"frame": {"x":486,"y":1162,"w":227,"h":237},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":14,"w":227,"h":237},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0005.png":
+{
+	"frame": {"x":745,"y":705,"w":217,"h":243},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":11,"w":217,"h":243},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0006.png":
+{
+	"frame": {"x":2,"y":722,"w":195,"h":245},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":9,"w":195,"h":245},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0007.png":
+{
+	"frame": {"x":249,"y":925,"w":173,"h":243},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":7,"w":173,"h":243},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0008.png":
+{
+	"frame": {"x":249,"y":774,"w":149,"h":245},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":5,"w":149,"h":245},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0009.png":
+{
+	"frame": {"x":2,"y":239,"w":139,"h":251},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":1,"w":139,"h":251},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0010.png":
+{
+	"frame": {"x":2,"y":565,"w":155,"h":247},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":5,"w":155,"h":247},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0011.png":
+{
+	"frame": {"x":498,"y":607,"w":173,"h":245},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":7,"w":173,"h":245},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0012.png":
+{
+	"frame": {"x":494,"y":975,"w":185,"h":241},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":11,"w":185,"h":241},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0013.png":
+{
+	"frame": {"x":245,"y":1100,"w":195,"h":239},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":13,"w":195,"h":239},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0014.png":
+{
+	"frame": {"x":2,"y":1303,"w":203,"h":237},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":15,"w":203,"h":237},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0015.png":
+{
+	"frame": {"x":789,"y":241,"w":215,"h":233},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":18,"w":215,"h":233},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0016.png":
+{
+	"frame": {"x":241,"y":1502,"w":223,"h":231},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":20,"w":223,"h":231},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0017.png":
+{
+	"frame": {"x":484,"y":1391,"w":231,"h":227},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":23,"w":231,"h":227},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0018.png":
+{
+	"frame": {"x":737,"y":1139,"w":237,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":19,"w":237,"h":231},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0019.png":
+{
+	"frame": {"x":2,"y":1066,"w":241,"h":235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":16,"w":241,"h":235},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0020.png":
+{
+	"frame": {"x":245,"y":1297,"w":203,"h":237},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":14,"w":203,"h":237},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0021.png":
+{
+	"frame": {"x":496,"y":782,"w":191,"h":243},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":11,"w":191,"h":243},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0022.png":
+{
+	"frame": {"x":251,"y":402,"w":169,"h":247},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":7,"w":169,"h":247},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0023.png":
+{
+	"frame": {"x":2,"y":919,"w":145,"h":245},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":5,"w":145,"h":245},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0024.png":
+{
+	"frame": {"x":500,"y":462,"w":143,"h":247},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":3,"w":143,"h":247},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0025.png":
+{
+	"frame": {"x":269,"y":235,"w":165,"h":251},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":1,"w":165,"h":251},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0026.png":
+{
+	"frame": {"x":2,"y":380,"w":183,"h":247},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":5,"w":183,"h":247},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0027.png":
+{
+	"frame": {"x":251,"y":573,"w":199,"h":245},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":7,"w":199,"h":245},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0028.png":
+{
+	"frame": {"x":741,"y":924,"w":213,"h":241},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":11,"w":213,"h":241},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0029.png":
+{
+	"frame": {"x":797,"y":2,"w":225,"h":237},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":15,"w":225,"h":237},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0030.png":
+{
+	"frame": {"x":725,"y":1372,"w":235,"h":235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":17,"w":235,"h":235},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0031.png":
+{
+	"frame": {"x":789,"y":458,"w":245,"h":231},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":20,"w":245,"h":231},
+	"sourceSize": {"w":275,"h":257}
+},
+"RobotWalk0032.png":
+{
+	"frame": {"x":534,"y":231,"w":253,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":22,"w":253,"h":229},
+	"sourceSize": {"w":275,"h":257}
+}
+}, 
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "RobotWalk@2x.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048}
+}
+}
