@@ -25,7 +25,6 @@
 	if (self)
 	{
 		currentFrame = -1;
-		currentTime = 0.0f;
 		
 		self.frames = _frames;
 		self.frameRate = [PXStage mainStage].frameRate;
@@ -49,6 +48,8 @@
 	
 	isPlaying = YES;
 	
+	startTime = PXGetTimerSec();
+	
 	[self addEventListenerOfType:PXEvent_EnterFrame listener:PXListener(onEnterFrame:)];
 }
 - (void) stop
@@ -64,16 +65,9 @@
 {
 	int framesCount = [frames count];
 	float duration = framesCount / frameRate;
-	
-	float dt = 1.0f / self.stage.frameRate;
-	currentTime += dt;
-	
-	while (currentTime > duration)
-	{
-		currentTime -= duration;
-	}
-	
-	float t = currentTime / duration;
+		
+	float time = fmodf(PXGetTimerSec() - startTime, duration);
+	float t = time / duration;
 	
 	int targetFrame = roundf(t * framesCount);
 	

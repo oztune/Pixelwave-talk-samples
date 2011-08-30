@@ -13,8 +13,9 @@
 	float frameRate;
 	NSArray *frames;
 	
-	float currentTime;
 	int currentFrame;
+	
+	float startTime;
 	
 	BOOL isPlaying;
 }
